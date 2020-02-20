@@ -157,7 +157,7 @@ bootstrap.min.css:5
 
 .banner {
 	padding: 180px 0px;
-	background-image: url(../img/images/yingpis-kalayom-By1szZOVpHg-unsplash.jpg);
+	background-image: url(../img/images/dentistry-668214_1920.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -174,7 +174,7 @@ bootstrap.min.css:5
 	letter-spacing: 0.5px;
 }
 
-.banner h2 {
+.banner h1 {
 	font-family: 'Spectral', serif;
 	font-size: 44px;
 	font-weight: 600;
